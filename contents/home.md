@@ -1,16 +1,15 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+上海交通大学安泰经济与管理学院博士在读.
 
 #### Email
-sli[at]cumt.edu.cn
+believe0066[at]sjtu.edu.cn\
+zheweizhang97@gmail.com
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 教育背景
+博士在读，安泰经济与管理学院，上海交通大学，2019—2025 (预计毕业时间).\
+本科，安泰经济与管理学院，上海交通大学，2015—2019.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 研究兴趣
+宏观经济，财政和货币政策，中国经济问题
+
 
