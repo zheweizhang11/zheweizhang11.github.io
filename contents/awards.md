@@ -1,13 +1,11 @@
-- National Scholarship of Graduate Student, 2024.
+####Teaching Assistant
+Intermediate Macroeconomics (Undergraduate course, 2023)\
+Principles of Economics (Undergraduate course, 2022)\
+Econometrics (Undergraduate course, 2021)\
+International Finance (Undergraduate course, 2020)
 
-- First-prize Scholarship of CUMT, 2024.
+####Reviewer Service
+World Economic Papers (世界经济文汇). 
 
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+####Others
+曾任上交安泰博士生联合会主席.

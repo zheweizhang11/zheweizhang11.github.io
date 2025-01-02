@@ -8,7 +8,7 @@
 
 #### Working In Progress
 
--1. A Study of Fiscal Policy in the Digital Economy: General Equilibrium Analysis Based on Corporate Digitalization (draft coming soon, with Zhaorui Li and Zhiwei Xu).
+-1. Endogenous Government Behaviors and Economic Growth in China (draft coming soon, with Jinxiang Yu and Zhiwei Xu).
 
 -2. 数字经济下的财政政策研究——基于企业数字化的一般均衡理论分析（合作者：许志伟，李兆睿）
 
