@@ -1,16 +1,17 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently a Ph.D candidate at Antai College of Economics and Management, Shanghai Jiao Tong University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+believe0066[at]sjtu.edu.cn\
+zheweizhang97@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Economics, Shanghai Jiao Tong University, Sept. 2019-Jun. 2025 (Expected).\
+B.A., Economics, Shanghai Jiao Tong University, Sept. 2015-Jun. 2019.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Macroeconomics, Digital Economics.\
+(1) Dynamic general equilibrium theory with heterogeneous agents and its application to Chinese issues; \
+(2) Dynamic general equilibrium theory with digital economy characteristics, and research on fiscal and industrial policies;\
+(3) Endogenous government behaviors and economic fluctuations.
 
