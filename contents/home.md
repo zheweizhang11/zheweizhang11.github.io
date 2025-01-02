@@ -2,7 +2,7 @@
 I am currently a Ph.D candidate at Antai College of Economics and Management, Shanghai Jiao Tong University, China.
 
 #### Email
-believe0066[at]sjtu.edu.cn\
+believe0066@sjtu.edu.cn\
 zheweizhang97@gmail.com
 
 #### Education
