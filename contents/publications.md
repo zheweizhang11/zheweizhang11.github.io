@@ -4,5 +4,11 @@
 
 -2. Understanding the Distributional Effects of Income Uncertainty Shocks (with Zhiwei Xu and Jianpo Xue, <strong>revise and resubmit</strong> at <strong>China Economic Review</strong>), 2024.
 
--3. Financial Liberalization and Capital Allocation in China (with Zhiwei Xu and Fangxing Zhou, under review at China Economic Review), 2024.
+-3. Financial Liberalization and Capital Allocation in China (with Zhiwei Xu and Fangxing Zhou, <strong>under review</strong> at <strong>China Economic Review</strong>), 2024.
+
+#### Working In Progress
+
+-1. A Study of Fiscal Policy in the Digital Economy: General Equilibrium Analysis Based on Corporate Digitalization (draft coming soon, with Zhaorui Li and Zhiwei Xu).
+
+-2. 数字经济下的财政政策研究——基于企业数字化的一般均衡理论分析（合作者：许志伟，李兆睿）
 
